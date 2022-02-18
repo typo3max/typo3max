@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @typo3max (Maximilian Fasel)
-- 👀 I’m interested in TYPO3 Webdevelopment based on Bootstrap 5+ &JQuery 3.6.0
+- 👀 I’m interested in TYPO3 Webdevelopment based on Bootstrap 5+ &JQuery 3.6.0+
 - 🌱 I’m currently learning ... we learn every day, a life long!
 - 💞️ I’m looking to collaborate on buliding for your company websites!
 - 📫 How to reach me maximilian.fasel@outlook.de, www.fasel-media.de, www.edv-beiteke.de 
